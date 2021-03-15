@@ -1,0 +1,43 @@
+/*Dar estilos*/
+
+.cuadrado{
+	width: 100px;
+	height: 100px;
+	background-color: #000000;
+	border: solid 2px white;
+}
+.rojo{
+	background-color: #FB3333;
+}
+.azul{
+	background-color: #6FFEED;
+}
+.verde{
+	background-color: #86F05B;
+}
+.morado{
+	background-color: #965BF0;
+}
+.amarillo{
+	background-color: #CCF05B;
+}
+#uno{
+	position: absolute;
+	margin-left: 110px;
+}
+#dos{
+	position: absolute;
+	margin-left: 210px;
+}
+#tres{
+	position:absolute;
+	margin-left: 310px;
+}
+#cuatro{
+	position:absolute;
+	margin-left: 410px;
+}
+#cinco{
+	position:absolute;
+	margin-left: 510px;
+}
